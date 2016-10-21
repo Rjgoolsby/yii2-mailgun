@@ -13,7 +13,7 @@
     "require": {
         "php": ">=5.5",
         "yiisoft/yii2": "~2.0",
-        "yiisoft/yii2-httpclient": "dev-master"
+        "yiisoft/yii2-httpclient": "2.0.1"
     },
     "require-dev": {
         "codeception/codeception": "~2.1",
